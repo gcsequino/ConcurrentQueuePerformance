@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.vscode
+
+BlockingQueue/CMakeFiles
+NonBlockingQueue/CMakeFiles
+BlockingQueue/bin
+NonBlockingQueue/bin
+BlockingQueue/lib
+NonBlockingQueue/lib
