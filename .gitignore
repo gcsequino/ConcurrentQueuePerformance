@@ -32,6 +32,7 @@
 *.app
 
 .vscode
+build
 
 BlockingQueue/CMakeFiles
 NonBlockingQueue/CMakeFiles
